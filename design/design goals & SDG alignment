@@ -1,0 +1,112 @@
+Design Goals & SDG Alignment
+
+---
+
+Design Goals
+
+CareSplit is built on a set of core design principles that guide every product decision, ensuring the platform is not only functional but also intuitive, inclusive, and trustworthy.
+
+---
+
+1. Simplicity
+
+CareSplit is designed to reduce complexity in healthcare payments.
+
+- Clear user flows from bill viewing to payment confirmation
+- Minimal steps required to complete key actions
+- Clean and uncluttered interface
+
+The goal is to ensure users can understand and complete tasks without confusion, regardless of their technical experience.
+
+---
+
+2. Trust
+
+Trust is the foundation of CareSplit, especially in a product that handles both healthcare and financial data.
+
+- Transparent payment breakdowns
+- Clear consent before recurring payments
+- Visible transaction history
+- Integration-ready with trusted payment infrastructure (e.g., Interswitch)
+
+Users must feel confident that their money, data, and healthcare decisions are secure and respected.
+
+---
+
+3. Clarity in Payments
+
+CareSplit prioritizes full transparency in all financial interactions.
+
+- Display of total bill, monthly payment, and duration
+- Clear payment schedules and next deduction dates
+- Real-time progress tracking
+
+The system ensures users always know:
+
+- What they owe
+- When they will pay
+- How much remains
+
+---
+
+4. Accessibility for All Users
+
+CareSplit is designed to serve users across different income levels, digital literacy, and backgrounds.
+
+- Support for both fixed and flexible payment plans
+- Simple language and intuitive UI
+- Responsive design across devices (mobile, tablet, desktop)
+- Consideration for users in the informal economy (e.g., traders, freelancers)
+
+The goal is to make healthcare payments inclusive and usable for everyone, not just tech-savvy users.
+
+---
+
+SDG Alignment
+
+CareSplit aligns with key United Nations Sustainable Development Goals (SDGs), particularly in improving access to essential services and reducing inequality.
+
+---
+
+SDG 3 — Good Health & Well-being
+
+CareSplit directly contributes to improving healthcare access by reducing financial barriers.
+
+- Enables patients to receive treatment without upfront payment
+- Reduces delays in seeking medical care
+- Supports continuity of treatment
+
+👉 Impact: Improved health outcomes through timely access to care
+
+---
+
+SDG 1: No Poverty (Indirect Impact)
+
+Healthcare costs are a major driver of financial instability.
+
+- Reduces the burden of large one-time payments
+- Prevents reliance on high-interest loans or informal debt
+- Supports financial stability during medical emergencies
+
+Impact: Protection against financial shocks caused by healthcare expenses
+
+---
+
+SDG 10: Reduced Inequalities
+
+CareSplit targets underserved populations who lack access to structured healthcare financing.
+
+- Serves users without insurance coverage
+- Supports both formal and informal income earners
+- Bridges the gap between healthcare access and financial capability
+
+Impact: More equitable access to healthcare services
+
+---
+
+Summary
+- CareSplit’s design is guided by simplicity, trust, clarity, and accessibility, ensuring that users can confidently manage healthcare payments without stress or confusion.
+
+By aligning with global development goals, CareSplit contributes not only as a product, but as a solution with meaningful social and economic impact.
+
+---
