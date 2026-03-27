@@ -1,0 +1,78 @@
+## **Market Research Report: Healthcare Financing and CareSplit Strategic Alignment**
+
+**Date:** March 26, 2026  
+**Subject:** Analysis of Nigerian Out-of-Pocket (OOP) Healthcare Barriers and CareSplit Product-Market Fit
+
+---
+
+## **Executive Summary: The Nigerian Healthcare Financing Landscape**
+
+Nigeria’s healthcare system is fundamentally characterized by a systemic reliance on out-of-pocket (OOP) payments. This financing model lacks robust risk protection, resulting in "catastrophic health expenditures" for an estimated 150 million people globally, with roughly 100 million being pushed into poverty annually.
+
+#### **1\. The Critical State of Out-of-Pocket (OOP) Financing**
+
+OOP payments remain the dominant healthcare financing mechanism in Nigeria due to the gross insufficiency of pooled financing arrangements like insurance.
+
+* **Market Share:** Approximately **75% to 77%** of total health expenditure is financed directly by households.  
+* **Sector Extremes:** In certain segments, OOP spending has been recorded as high as **81.92%**.  
+* **Lack of Protection:** Millions of Nigerians lack financial risk protection, necessitating full payment at the point of service.  
+* **Inequity:** The current system is regressive, restricting access for the vulnerable and occasionally impoverishing even wealthier households.
+
+#### **2\. Core Market Challenges and Behavioral Impacts**
+
+The reliance on lump-sum, upfront payments creates severe barriers to medical and financial stability.
+
+**A. Socio-Economic Consequences**
+
+* **The "Debt Trap":** Existing alternatives often involve high-interest medical loans (4.5%+ monthly), leading to significant "debt shame".  
+* **Impoverishment:** OOP payments push an estimated **1.2 million Nigerians into poverty** annually.  
+* **Catastrophic Thresholds:** A household suffers "catastrophic" expenditure if medical costs exceed **40% of non-food spending**. In the lowest socioeconomic quintile, nearly **48.2% of households** face this reality.  
+* **Household Trade-offs:** Families frequently sacrifice basic needs, food, shelter, or education; to meet medical bills.
+
+**B. Impact on Clinical Treatment Behavior**
+
+* **Medical Suppression:** Patients often convince themselves they do not need care simply because they cannot afford it.  
+* **Delayed Presentation:** Anticipated costs lead to treatment delays, resulting in preventable, life-threatening complications.  
+* **Treatment Interruption:** For chronic conditions like hypertension, patients skip follow-ups or fail medication cycles due to cash flow issues.  
+* **Patronage of Unqualified Providers:** To save costs, many resort to cheaper, unqualified informal providers or traditional healers.
+
+#### **3\. Prevailing Coping Mechanisms**
+
+When faced with medical bills, Nigerians utilize several "economic shocks":
+
+* **Personal Savings:** Used by **47%** of individuals, though often insufficient.  
+* **Family/Social Support:** **13%** rely on family networks.  
+* **Asset Liquidation:** **4%** sell material assets such as land, livestock, or jewelry.  
+* **Labor Mobilization:** Households may remove children from school or mobilize family members into labor to satisfy creditors.
+
+---
+
+## **CareSplit Strategic Intervention Strategy**
+
+CareSplit is designed to bridge the gap between these economic realities and the need for consistent healthcare.
+
+#### **1\. Strategic Feature Alignment**
+
+| Market Challenge | CareSplit MVP Solution |
+| :---- | :---- |
+| **High Upfront Costs:** (e.g., ₦180,000 for hypertension care). | **Bill Splitting Logic:** Aligns payments with income flow (e.g., ₦30,000/month). |
+| **"Debt Shame" / High Interest:** (4.5%+ monthly). | **0% Interest Facilitator:** CareSplit acts as a facilitator, not a lender, avoiding the "loan app" stigma. |
+| **Medical Suppression:** Delaying care due to cost. | **Recurring Automated Payments:** Removes "decision pain" via Interswitch integration. |
+| **"Walled Garden" HMOs:** Slow hospital payouts (30-90 days). | **"Stripe for Healthcare":** Enables any clinic to generate payment links with faster settlement. |
+
+#### 
+
+#### **2\. Trust and Security (2026 Framework)**
+
+With Nigeria’s Digital Public Infrastructure (DPI) maturing by 2026, CareSplit utilizes **BVN/NIN** as a "Trust Signal". This reduces default risk, allowing for lower entry deposits (25%) compared to the 50% industry standard.
+
+---
+
+## **Usability Validation Framework**
+
+To address the identified "Fear of Auto-Debit" and "Trust in Data Security," the following testing protocols are recommended:
+
+* **Transparency Focus:** Validate if users perceive the 25% deposit and 0% interest as a "health manager" tool rather than a "loan".  
+* **Security Validation:** Observe friction during Interswitch tokenization and assess user sentiment regarding linking BVN/NIN for verification.  
+* **Trust Anchors:** Implement visual trackers such as an **"Adherence Score"** and **"Clinic Verified" badges** to increase user confidence in automated systems
+
