@@ -1,0 +1,36 @@
+Key Insights
+
+Based on the survey data and analysis of Nigerian healthcare payment behaviour, the following key insights were identified:
+
+1. Structural Mismatch Between Income and Healthcare Billing
+Finding: Most respondents receive income monthly or irregularly, yet healthcare bills are issued as lump-sum upfront payments.
+Impact: 77.8% of respondents have delayed or skipped care due to cost.
+CareSplit Implication: Automating installment payments directly addresses this mismatch.
+
+2. Strong Preference for Installment Payment
+Finding: 83.3% of respondents prefer paying via installments (fixed monthly or flexible).
+Impact: Users are highly receptive to structured, automated payment plans.
+CareSplit Implication: MVP must include both fixed and flexible payment modes to serve all target segments.
+
+3. High Financial Stress Levels
+Finding: 66.6% report medical bills as very or extremely stressful.
+Impact: Financial stress correlates with treatment delays.
+CareSplit Implication: By removing the upfront burden, CareSplit reduces stress and improves care adherence.
+
+4. Trust is the Master Variable for Auto-Debit Adoption
+Finding: 77.8% are open to auto-debit under trust conditions; 55.6% require strong trust in the provider.
+Impact: User concerns include insufficient funds, unexpected deductions, loss of control, and security fears.
+CareSplit Implication: Product must feature clear onboarding, full transparency, notification systems, and pause/reschedule options.
+
+5. Opportunity in the Informal Economy
+Finding: 33.3% of respondents earn irregular income (freelancers, gig workers, or small business owners).
+Impact: Flexible payment options are critical for these users.
+CareSplit Implication: MVP must include open-balance and flexible-before-due-date models alongside standard recurring debit.
+
+6. Formalization of Informal Practices
+Finding: Only 5.6% of respondents have any form of structured installment arrangement; others rely on informal borrowing.
+Impact: Users are already attempting to split bills manually, often with friends/family.
+CareSplit Implication: The platform formalizes and automates these practices, reducing stress and social debt reliance.
+
+✅ Summary
+CareSplit addresses a high-impact problem in Nigeria: the mismatch between income flow and healthcare bill requirements. Its design must emphasize trust, flexibility, and clarity, while offering both fixed and flexible installment plans. The market is validated for early adoption, with ~88.9% of respondents positively receptive to the platform.
