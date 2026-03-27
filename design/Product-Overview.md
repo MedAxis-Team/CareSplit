@@ -1,16 +1,16 @@
-# CareSplit – Product & Design Overview
+CareSplit – Product & Design Overview
 
-## Product Vision
+Product Vision
 CareSplit is designed to bridge the gap between healthcare access and financial capability by enabling patients to receive treatment immediately and pay in structured installments.
 
 ---
 
-## Problem Insight
+Problem Insight
 Many patients delay or avoid treatment due to the inability to pay large upfront hospital bills. This creates a critical gap in healthcare accessibility.
 
 ---
 
-## Design Solution
+Design Solution
 We designed a system that:
 - Breaks down large medical bills into smaller payments
 - Provides flexible payment plans
@@ -18,34 +18,34 @@ We designed a system that:
 
 ---
 
-## User Types
+User Types
 
-### Patients
+Patients
 - Need affordable access to healthcare
 - Want flexible payment options
 
-### Providers (Hospitals/Clinics) -Coming Soon
+Providers (Hospitals/Clinics) - Coming Soon
 - Need to manage patient billing
 - Want assurance of payment over time
 
 ---
 
-## Core Features Designed
+Core Features Designed
 
-### Patient Side
+Patient Side
 - Dashboard overview
 - Medical bill display
 - Installment plan selection
 - Payment tracking
 
-### Provider Side (Coming Soon -Future Development)
+Provider Side (Coming Soon - Future Development)
 - Patient registration
 - Bill creation
 - Payment monitoring dashboard
 
 ---
 
-## User Experience Flow
+User Experience Flow
 
 1. Patient logs in
 2. Views assigned medical bill
@@ -56,7 +56,7 @@ We designed a system that:
 
 ---
 
-## Design Approach
+Design Approach
 
 - Clean and minimal interface
 - Trust-focused UI (clear payment info)
@@ -65,7 +65,7 @@ We designed a system that:
 
 ---
 
-## Tools Used
+Tools Used
 
 - Figma (UI/UX Design)
 - GitHub (Documentation)
@@ -73,7 +73,7 @@ We designed a system that:
 
 ---
 
-## MVP Focus
+MVP Focus
 
 The MVP prioritizes:
 - Functional payment flow
@@ -82,7 +82,7 @@ The MVP prioritizes:
 
 ---
 
-## Design Goals
+Design Goals
 
 - Reduce friction in healthcare payments
 - Build trust with users
@@ -90,7 +90,7 @@ The MVP prioritizes:
 
 ---
 
-## Future Design Improvements
+Future Design Improvements
 
 - Personalized payment plans
 - Notifications & reminders
