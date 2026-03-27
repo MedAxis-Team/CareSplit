@@ -1,6 +1,7 @@
 Screens Designed
 
-This section outlines the core screens designed for the CareSplit web application as part of the MVP. Each screen is built to support a specific step in the user journey, ensuring a seamless flow from viewing a bill to completing and managing payments.
+This section outlines the core screens designed for the CareSplit web application as part of the MVP. 
+Each screen is built to support a specific step in the user journey, ensuring a seamless flow from viewing a bill to completing and managing payments.
 
 ---
 
@@ -76,7 +77,7 @@ Design Focus:
 
 ---
 
-🔹 A. Payment Authorization
+A. Payment Authorization
 
 Features:
 - Selection of payment method (card/bank)
@@ -89,7 +90,7 @@ Action: Confirm payment plan
 
 ---
 
-🔹 B. Payment Confirmation
+B. Payment Confirmation
 
 Features:
 - Success message
@@ -99,8 +100,6 @@ Features:
 
 Action: Return to Dashboard
 
----
-
 Design Focus:
 - Trust and security
 - Clear confirmation of actions
@@ -108,7 +107,7 @@ Design Focus:
 
 ---
 
- 5. Provider Dashboard
+ 5. Provider Dashboard (Coming Soon)
 
 - Purpose: To allow healthcare providers to manage and track patient billing and payments.
 
@@ -130,11 +129,8 @@ Design Focus:
 - Clear visibility of financial inflow
 - Simplified billing management
 
----
 
-Overall User Flow Integration
-
-All screens are interconnected to support the core CareSplit journey:
+Overall User Flow Integration, all screens are interconnected to support the core CareSplit journey:
 
 Patient Dashboard
 → Bill View
@@ -142,7 +138,6 @@ Patient Dashboard
 → Payment Flow
 → Back to Dashboard (Tracking & Management)
 
----
 
 Summary: The designed screens collectively ensure that users can:
 
@@ -152,5 +147,3 @@ Summary: The designed screens collectively ensure that users can:
 - Track and manage their financial commitments
 
 Each screen is built with a focus on simplicity, clarity, and trust, ensuring a smooth and intuitive user experience across the platform.
-
----
