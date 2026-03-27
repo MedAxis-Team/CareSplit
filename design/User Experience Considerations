@@ -1,0 +1,96 @@
+User Experience Considerations
+
+CareSplit is designed to provide a seamless, intuitive, and trustworthy experience for users managing sensitive healthcare payments. 
+The following user experience considerations guided the design and interaction patterns across the platform.
+
+---
+
+1. Instant Understanding of Payment Plans
+
+Goal:
+Users should be able to immediately understand their financial commitment without needing additional explanation.
+
+Implementation
+- Display of:
+  - Total bill amount
+  - Monthly payment
+  - Duration of plan
+- Side-by-side comparison of installment options
+- Real-time updates when a plan is selected
+
+Outcome
+Users can quickly answer:
+
+- “How much am I paying?”
+- “For how long?”
+- “What remains?”
+
+This reduces confusion and builds confidence in decision-making.
+
+---
+
+2. Clear and Obvious Payment Actions
+
+Goal:
+Users should always know what action to take next.
+
+Implementation:
+- Prominent primary buttons:
+  - “Split Bill”
+  - “Continue”
+  - “Confirm Payment”
+- Consistent placement of call-to-action buttons
+- Visual distinction between primary and secondary actions
+
+Outcome:
+- Users are guided through the flow without hesitation
+- Reduced cognitive load during critical financial actions
+
+This ensures a smooth and guided payment experience.
+
+---
+
+3. Immediate Feedback for User Actions
+
+Goal:
+Users should receive instant confirmation or error feedback after every important action.
+
+Implementation
+- Success states:
+  - Payment plan activated
+  - Confirmation messages with next steps
+- Error states:
+  - Failed payment alerts
+  - Clear instructions for retry
+- Loading states:
+  - Visual indicators during processing
+
+Outcome:
+- Users feel in control and informed at all times
+- Reduced anxiety during financial interactions
+
+Immediate feedback reinforces trust and system reliability.
+
+---
+
+Overall UX Principle
+
+CareSplit is designed to minimize uncertainty in healthcare payments by ensuring that every interaction is:
+
+- Understandable → Users know what they are doing
+- Guided → Users know what to do next
+- Responsive → Users receive immediate system feedback
+
+---
+
+Summary:
+These UX considerations ensure that CareSplit delivers a user experience that is:
+
+- Simple to navigate
+- Clear in communication
+- Reliable in interaction
+
+Ultimately, the goal is to make healthcare payments feel predictable, transparent, and stress-free.
+
+---
+
