@@ -1,0 +1,66 @@
+## Strategic Concerns
+The survey and analysis highlighted several strategic concerns critical to CareSplit’s product design and market positioning. 
+Each concern is linked to actionable insights for the MVP.
+
+1. Stated vs. Revealed Preference
+Description:
+Respondents’ stated preferences may not always reflect their actual behaviour when faced with financial decisions, especially regarding recurring payments and auto-debits.
+
+
+Observation
+
+Evidence
+Implication for CareSplit
+Users claim comfort with auto-debit
+77.8% conditionally open to auto-debit
+Trust is the key variable; adoption depends on transparent UX, consent controls, and predictable notifications
+Low prior experience
+88.9% have never used auto-debit before
+Onboarding must educate users with visual walkthroughs before requesting authorization
+Conditional acceptance
+55.6% will adopt only if provider is trusted
+Strong branding, credible partnerships, and clear feature communication are essential
+
+Insight:
+Conditional openness is not rejection. CareSplit’s Trust Architecture Layer converts these conditional users by combining education, 
+transparency, and control.
+
+2. Default Risk
+Description:
+The risk that users fail to complete scheduled payments due to insufficient funds, irregular income, or unforeseen events.
+Risk Factor
+Survey Evidence
+Product Mitigation
+Insufficient funds
+33.3% cited as a concern
+Implement grace periods, low-balance alerts, and one-tap reschedule options
+Unexpected deductions
+27.8% cited as a concern
+Send 48-hour advance notifications before every deduction
+Loss of control
+16.7% cited as a concern
+Provide pause, skip, or full schedule visibility at all times
+Security/fraud concerns
+11.1% cited as a concern
+Utilize PCI-DSS infrastructure, 2FA, and NDPR-compliant data storage
+
+Insight:
+All default risk concerns are solvable design problems, not barriers. Addressing these in the MVP ensures high adoption and user trust.
+Summary
+Stated vs. revealed preference highlights the need for trust-building and user education before auto-debit adoption.
+Default risk concerns are directly translatable into product features that prevent missed payments, enhance control, and ensure security.
+By tackling these concerns, CareSplit can maximize both adoption and retention in a market with limited formal healthcare financing options.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
