@@ -58,14 +58,97 @@ CareSplit is designed as a two-sided system.
 
 
 
+UI/UX Decisions (Led by Onyedikachi Kalu OKwun - UI/UX Designer)
 
+Figma Link: (https://www.figma.com/design/CXD86jpWNCAWotm1WnBTb8/CareSplit-UI?node-id=0-1&p=f&t=A6EOHPHgSjff6Jwa-0)
+Figjam Link: https://www.figma.com/board/wyjWATcN5QLNxq1e9koq4L/CARESPLIT?node-id=0-1&p=f&t=enonSvU9nFnmqGie-0
 
+The following screens were designed for CareSplit platform:
+# Patient Side: 
+- Patient Dashboard
+- Bill Details View
+- Split Bill Flow
+- Payment Plan Selection
+- Payment Confirmation Flow
 
-Figma Link (https://www.figma.com/design/CXD86jpWNCAWotm1WnBTb8/CareSplit-UI?node-id=0-1&p=f&t=A6EOHPHgSjff6Jwa-0)
+# Provider Side:
+- Provider Dashboard
+- Patient Bills Overview
+- Payment Tracking
+- Approval / Restructuring Flow
 
-Screens Designed: Patients Dashboard, Bill View, Payment Plan selection, Payment Flow and Provider Dashboard
+Design Decisions: 
 
-Design Goals: Simplicity, Trust, and Clarity in Payments
+1.Clean and Minimal Interface:
+The interface was intentionally designed to be clean and uncluttered to support focus and ease of use.
 
-Design Decisions: Clean Layout for easy navigation, clear finacial breakdown and Minimal friction user flow
-              
+# Decisions made:
+
+- Avoid unnecessary elements or distractions
+- Use whitespace to separate sections and content
+- Use cards to group related information
+- Keep screens simple and task-focused
+
+# Why this matters:
+A minimal interface improves usability and reduces cognitive load, especially for users who may already be stressed about hospital bills.
+
+2. Clear Typography for Financial Data:
+Typography was used as a tool to highlight important informations especially financial information.
+
+# Decisions made:
+- Larger font sizes for bill amounts and totals
+- Medium font for section headings
+- Smaller font for supporting text
+- Consistent font hierarchy across all screens
+
+# Why this matters:
+Users can quickly identify critical financial information like:
+- Total bill
+- Amount owed
+- Monthly payment
+- Due dates
+This reduces confusion and prevents payment mistakes.
+
+3. Consistent Spacing and Layout:
+A consistent spacing system was used across all screens to maintain visual balance and structure.
+
+# Decisions made:
+- Uniform padding and margins
+- 8-point spacing system
+- Grid-based layout for alignment
+- Consistent card and component spacing
+
+# Why this matters:
+Consistency makes the interface predicatable. When users understand one screen, they can easily understand others
+
+4. Strong Visual Hierarchy for Key Actions:
+Primary actions were made visually prominent so users know what to do next.
+
+# Decisions made:
+- Primary buttons like “Split Bill” and “Confirm Payment” are bold and highly visible
+- Secondary actions are less visually prominent
+- Important information is placed at the top of screens
+-  Actions are placed where users expect them (bottom or right side)
+
+# Why this matters:
+This guides users toward completing key tasks without confusion and improves task completion rate.
+
+# Design Principles:
+CareSplit design is built around four main principles, They are: 
+                 
+-- Simplicity - Clean UI, minimal screens, clear flow
+-- Clarity - Clear financial breakdown and typography
+-- Trust - Transparent payment information and structured layout
+-- Efficiency - Fast payment flow and clear call-to-action buttons
+These principles ensure that CareSplit delivers a user experience that is not only functional, but also intuitive and reliable.
+
+# Design Process Summary
+Defined the problem (medical bill splitting and payment difficulty)
+Identified users (patients and hospital providers)
+Created Personas, user flows for bill splitting and payment
+Created Information Architecture to map out how caresplit will be built
+Designed wireframes
+Designed high-fidelity screens in Figma
+Applied design system (colors, typography, spacing, components)
+Designed both Patient and Provider dashboards
+Focused on clarity of financial information and ease of payment
