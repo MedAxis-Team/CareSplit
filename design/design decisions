@@ -1,8 +1,71 @@
-# Figma Link (https://www.figma.com/design/CXD86jpWNCAWotm1WnBTb8/CareSplit-UI?node-id=0-1&p=f&t=A6EOHPHgSjff6Jwa-0)
+This section outlines the key design decisions that guided the development of CareSplit. 
+These decisions are informed by user research, product goals, and the need to create a system that is both functional and trustworthy.
 
-# Screens Designed: Patients Dashboard, Bill View, Payment Plan selection, Payment Flow and Provider Dashboard
+Design Decisions
 
-# Design Goals: Simplicity, Trust, and Clarity in Payments
+This section outlines the key design decisions that guided the development of CareSplit. 
+These decisions are informed by user research, product goals, and the need to create a system that is both functional and trustworthy.
 
-# Design Decisions: Clean Layout for easy navigation, clear finacial breakdown and Minimal friction user flow
-              ffffff
+---
+
+Product-Level Decisions (Led by Product Lead - Gloria Joseph)
+
+1. Focus on a Simple and Guided Payment Flow
+
+CareSplit is designed to guide users step-by-step from viewing a bill to completing payment setup.
+
+- Users are not overwhelmed with multiple choices at once
+- Each step leads logically to the next (View Bill → Select Plan → Confirm Payment)
+
+This ensures users can complete tasks confidently, even with low digital familiarity.
+
+---
+
+2. Prioritize Clarity in Financial Information
+
+All financial data is presented in a clear and structured format.
+
+- Total bill, monthly payment, and duration are always visible
+- Payment schedules and next deduction dates are clearly defined
+
+This reduces confusion and builds trust in financial decisions.
+
+---
+
+3. Reduce Friction in Completing Payments
+
+The system minimizes unnecessary steps and complexity.
+
+- Limited input requirements
+- Predefined payment plan options
+- Clear call-to-action buttons
+
+The goal is to make payment setup quick, intuitive, and stress-free.
+
+---
+
+4. Align Patient and Provider Experiences
+
+CareSplit is designed as a two-sided system.
+
+- Patients manage payments and track progress
+- Providers monitor billing and payment status (Future Development)
+
+ Both sides are aligned through a shared, transparent payment structure.
+
+---
+
+
+
+
+
+
+
+Figma Link (https://www.figma.com/design/CXD86jpWNCAWotm1WnBTb8/CareSplit-UI?node-id=0-1&p=f&t=A6EOHPHgSjff6Jwa-0)
+
+Screens Designed: Patients Dashboard, Bill View, Payment Plan selection, Payment Flow and Provider Dashboard
+
+Design Goals: Simplicity, Trust, and Clarity in Payments
+
+Design Decisions: Clean Layout for easy navigation, clear finacial breakdown and Minimal friction user flow
+              
