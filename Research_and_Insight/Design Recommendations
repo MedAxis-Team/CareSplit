@@ -1,0 +1,27 @@
+## Design Recommendations from Research
+
+Based on survey findings and strategic insights, the following recommendations inform CareSplit’s MVP design and product strategy:
+Dual Payment Modes (MVP-Critical)
+Include fixed monthly auto-debit for salaried users.
+Include flexible-before-due-date or open-balance model for irregular-income earners.
+Both modes should launch simultaneously to cover 100% of target users.
+
+Trust-Centric Auto-Debit Onboarding
+Provide visual walkthroughs explaining how auto-debit works.
+Highlight full control features: pause, skip, reschedule, and payment calendar.
+Use credible branding and transparent fee disclosures to build confidence.
+
+Default Risk Mitigation
+Implement grace periods for insufficient funds.
+Send 48-hour advance notifications before deductions.
+Include low-balance alerts and one-tap reschedule options.
+Stress Reduction & Financial Clarity
+Present clear, upfront breakdowns of total bill and installment schedule.
+Offer reminders and dashboards to reduce anxiety associated with medical costs.
+
+Formalization of Informal Practices
+Convert informal borrowing and manual split attempts into structured, automated plans.
+Ensure platform complements insurance/HMOs rather than competing.
+Education for First-Time Users
+Highlight benefits of recurring payments and structured installments.
+Address common concerns: fraud/security, losing control, and unexpected deductions.
