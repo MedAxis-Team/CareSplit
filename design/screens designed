@@ -1,0 +1,156 @@
+Screens Designed
+
+This section outlines the core screens designed for the CareSplit web application as part of the MVP. Each screen is built to support a specific step in the user journey, ensuring a seamless flow from viewing a bill to completing and managing payments.
+
+---
+
+1. Patient Dashboard
+- Purpose: The Patient Dashboard serves as the central hub where users can view and manage their healthcare payments.
+
+Key Features
+- Summary cards displaying:
+  - Outstanding bill
+  - Remaining balance
+  - Next payment date
+  
+- Payment progress indicator
+
+- Quick actions:
+  - View Bill
+  - Choose Payment Plan
+  - Manage Plan
+  
+- Recent transactions preview
+
+Design Focus:
+- Clear hierarchy of financial information
+- Quick access to primary actions
+- Real-time visibility of payment status
+
+---
+
+2. Bill View (Bill Details Screen)
+
+- Purpose: To provide users with a clear and detailed breakdown of their hospital bill.
+
+Key Features:
+- Hospital name and service details
+- Total bill amount
+- Optional breakdown of charges
+- Current payment status
+
+Primary Action - Split Bill with CareSplit
+
+Design Focus:
+- Transparency in billing
+- Easy understanding of total cost
+- Clear call-to-action to proceed
+
+---
+
+Payment Plan Selection
+
+- Purpose: Allows users to choose how they want to split their medical bill.
+
+Key Features
+
+- Predefined plan options:
+  - 3 months
+  - 6 months
+  - 12 months
+- Dynamic calculation of monthly payment
+- Visual selection states for plans
+
+Primary Action - Continue to payment setup
+
+Design Focus:
+- Simplicity in decision-making
+- Clear comparison of payment options
+- Immediate feedback on selection
+
+---
+
+4. Payment Flow (Authorization & Confirmation)
+
+- Purpose: To enable users to securely set up and confirm their payment plan.
+
+---
+
+🔹 A. Payment Authorization
+
+Features:
+- Selection of payment method (card/bank)
+- Summary of selected plan:
+  - Total bill
+  - Monthly payment
+  - Duration
+
+Action: Confirm payment plan
+
+---
+
+🔹 B. Payment Confirmation
+
+Features:
+- Success message
+- Activated payment plan details
+- Next payment date
+- Payment schedule overview
+
+Action: Return to Dashboard
+
+---
+
+Design Focus:
+- Trust and security
+- Clear confirmation of actions
+- Transparency in payment setup
+
+---
+
+ 5. Provider Dashboard
+
+- Purpose: To allow healthcare providers to manage and track patient billing and payments.
+
+Key Features
+
+- Overview of:
+  - Total patients
+  - Active payment plans
+  - Payments received
+- List of patient bills
+- Payment status tracking
+
+Actions:
+- Create and assign bills to patients
+- Monitor payment progress
+
+Design Focus:
+- Operational efficiency for providers
+- Clear visibility of financial inflow
+- Simplified billing management
+
+---
+
+Overall User Flow Integration
+
+All screens are interconnected to support the core CareSplit journey:
+
+Patient Dashboard
+→ Bill View
+→ Payment Plan Selection
+→ Payment Flow
+→ Back to Dashboard (Tracking & Management)
+
+---
+
+Summary: The designed screens collectively ensure that users can:
+
+- Understand their medical bills
+- Select a suitable payment plan
+- Authorize and confirm payments
+- Track and manage their financial commitments
+
+Each screen is built with a focus on simplicity, clarity, and trust, ensuring a smooth and intuitive user experience across the platform.
+
+---
