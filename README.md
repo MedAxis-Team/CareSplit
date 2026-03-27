@@ -1,4 +1,4 @@
-# 🏥 CareSplit — Built by Team MedAxis | Enyata × Interswitch Buildathon 2026
+# 🏥 CareSplit - Built by Team MedAxis | Enyata × Interswitch Buildathon 2026
 
 ---
 
@@ -186,7 +186,7 @@ CareSplit is built by a distributed team across Nigeria, combining expertise in:
 
 ---
 
-CareSplit is more than a product—it is a step toward making healthcare access more equitable by removing the burden of upfront payment.
+CareSplit is more than a product; it is a step toward making healthcare access more equitable by removing the burden of upfront payment.
 
 By aligning payment structures with real-life income patterns, CareSplit enables users to receive care now and pay over time.
 
